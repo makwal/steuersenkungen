@@ -40,6 +40,10 @@ Dort wird mit einer ganz anderen Methode gerechnet, mit einem investitionstheore
 
 **Daten ESTV_1**
 
+- [Datensatz juristische](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_juristisch.xlsx)
+- [Datensatz natürliche](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_nat%C3%BCrlich.xlsx)
+- [Code](https://github.com/makwal/steuersenkungen/blob/master/1_estv_steuerbelastung_2004-2016.ipynb)
+
 Die Daten zur Entwicklung der Steuern natürlicher und juristischer Personen stammen aus einem Datenset, das der Eidgenössischen Steuerverwaltung 2018 als Grundlage für den Bericht "Unterschiede in der Steuerbelastung natürlicher und juristischer Personen 2004 - 2016" diente: https://www.estv.admin.ch/estv/de/home/allgemein/steuerpolitik/fachinformationen/berichte.html#-747570948
 
 **Kurzbeschrieb der Datei Daten/estv_steuerbelastung04-16_juristisch.xlsx**
