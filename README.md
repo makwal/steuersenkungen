@@ -40,16 +40,14 @@ Dort wird mit einer ganz anderen Methode gerechnet, mit einem investitionstheore
 
 **Daten ESTV_1**
 
-- [Datensatz juristische](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_juristisch.xlsx)
-- [Datensatz natürliche](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_nat%C3%BCrlich.xlsx)
 - [Code](https://github.com/makwal/steuersenkungen/blob/master/1_estv_steuerbelastung_2004-2016.ipynb)
 
 Die Daten zur Entwicklung der Steuern natürlicher und juristischer Personen stammen aus einem Datenset, das der Eidgenössischen Steuerverwaltung 2018 als Grundlage für den Bericht "Unterschiede in der Steuerbelastung natürlicher und juristischer Personen 2004 - 2016" diente: https://www.estv.admin.ch/estv/de/home/allgemein/steuerpolitik/fachinformationen/berichte.html#-747570948
 
-**Kurzbeschrieb der Datei Daten/estv_steuerbelastung04-16_juristisch.xlsx**
+**Kurzbeschrieb der Datei [Daten/estv_steuerbelastung04-16_juristisch.xlsx](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_juristisch.xlsx)**
 Die Excel-Datei für die juristischen Personen enthält drei Tabellenblätter. In dieser Analyse wird nur mit dem ersten (Ordentlich) gearbeitet. Die ordentlich besteuerten Firmen machen den überwiegenden Anteil der juristischen Personen aus (im Aargau 2017 80 Prozent, siehe Daten/kanton_ag_steuern_juristische_personen.xlsx -> T1). Pro Kanton sind drei Firmentypen (1-3) mit unterschiedlicher Rendite aufgeführt. Um die Holdings zu integrieren, wäre eine Gewichtung in allen Kantonen nötig (die Holdings bezahlen teils sehr wenig Steuern). Das würde den Rahmen dieser Analyse sprengen. Das gleiche gilt für die Gewichtung zwischen den Kantonen. Jeder Kanton fliesst folglich zu gleichen Teilen in diese Analyse ein. Innerhalb der Kantone wurden die Daten allerdings vom Studienautor gewichtet. Zu den Daten ist wichtig zu wissen, dass sie die Steuerbelastungen durch Reingewinn und Kapitalsteuern (Kantons- und Gemeindesteuern) umfassen.
 
-**Kurzbeschrieb der Datei Daten/estv_steuerbelastung04-16_natürlich.xlsx**
+**Kurzbeschrieb der Datei [Daten/estv_steuerbelastung04-16_natürlich.xlsx](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuerbelastung04-16_nat%C3%BCrlich.xlsx)**
 Die Excel-Datei für die natürlichen Personen ist fast gleich aufgebaut. In diese Analyse werden alle Haushaltstypen ausser das Tabellenblatt "Vermögen" einbezogen. Die Analyse fusst demnach auf den Steuerbelastungen für folgende Haushaltstypen:
 
 - Alleinstehende Person ohne Kinder mit Einkommen aus unselbständiger Erwerbstätigkeit („Lediger“)
@@ -67,6 +65,10 @@ In beiden Dateien wird mit den Belastungswerten in Prozent gerechnet, nicht mit 
 
 **Daten ESTV_2**
 
+- [Datensatz](https://github.com/makwal/steuersenkungen/tree/master/Daten/estv_steuerrechner)
+- [Code Scraper](https://github.com/makwal/steuersenkungen/blob/master/2_estv_scraper.ipynb)
+- [Code Datenverarbeitung](https://github.com/makwal/steuersenkungen/blob/master/3_auswertung_estv_scraping.ipynb)
+
 Die obigen Daten reichen nur bis ins Jahr 2016. Glücklicherweise verfügt die ESTV über einen Steuerrechner, mit welchem die natürlichen Steuerbelastungen für diesselben Haushaltsypen und Einkommen wie bei ESTV_1 für die Jahre 2016 bis 2020 generiert werden können. Die Daten reichen nur bis ins Jahr 2014 zurück, deshalb ist dies nur die sekundäre Datenquelle. https://swisstaxcalculator.estv.admin.ch/#/taxburden/income-wealth-tax
 
 Die Seite wird mit Hilfe von Selenium gescraped. Es werden für jede Aargauer Gemeinde die jeweiligen Felder angewählt und das generierte Excel-File heruntergeladen.
@@ -74,8 +76,6 @@ Die Seite wird mit Hilfe von Selenium gescraped. Es werden für jede Aargauer Ge
 Die Daten von ESTV_1 und ESTV_2 können nicht 1:1 miteinander verglichen werden, weil es zwei grundlegende Unterschiede gibt:
 - ESTV_1 umfasst alle Schweizer Gemeinden, wohingegen ESTV_2 nur die Steuern am Kantonshauptort beinhaltet.
 - ESTV_2 enthält zusätzlich die Belastung durch die direkte Bundessteuer.
-
-Im Artikel wird daher nur ESTV_1 visualisiert. Die Ergebnisse von ESTV_2 (AG und CH-Durchschnitt) werden textlich zusammengefasst.
 
 **Daten ESTV_3**
 
