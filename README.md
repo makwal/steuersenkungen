@@ -10,6 +10,8 @@ Das Thema ist relevant, weil die grosse Mehrheit der Bürgerinnen und Bürger so
 
 Journalistisch aufbereitete Steuervergleiche gibt es immer wieder. Meistens fokussieren sie aber entweder auf die juristischen oder die natürlichen Personen. Ein Beispiel, in dem beide Seiten vorkommen, findet sich bei der ["Berner Zeitung"](https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447).
 
+<a href="https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447" target="_blank">"Berner Zeitung"</a>
+
 **Knackpunkt**
 In der Fülle von Steuerdaten und -auswertungen ein geeignetes Datenset finden, das den Direktvergleich juristischer und natürlicher Personen ermöglicht.
 
