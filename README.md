@@ -79,25 +79,30 @@ Die Daten von ESTV_1 und ESTV_2 können nicht 1:1 miteinander verglichen werden,
 
 **Daten ESTV_3**
 
+- Daten [hier](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_juristische_2003-2020.csv) und [hier](https://github.com/makwal/steuersenkungen/blob/master/Daten/estv_steuersubstrat_gemeinden.xlsx)
+- [Code](https://github.com/makwal/steuersenkungen/blob/master/4_estv_juristische_2020.ipynb)
+
 Um auch für die juristischen Personen ein aktuelles Bild zu erhalten, wurden zusätzlich Daten aus dem ESTV-Bericht "Entwicklung der Unternehmenssteuerbelastung in der Schweiz von 2003 bis 2020: Analyse auf Gemeindeebene" beigezogen. Daraus werden die durchschnittlichen effektiven Steuersätze 2020 der Kantone visualisiert. Die Daten zur Studie sind auf der ESTV-Website auffindbar. Um die Gewichtung der Kantone wie in der Studie vornehmen zu können, musste ich bei der ESTV die Daten zum Steuersubstrat pro Gemeinde bestellen. Zum Bericht:
 https://www.estv.admin.ch/estv/de/home/allgemein/steuerpolitik/fachinformationen/berichte.html#-768005854
 
 **Daten Kanton AG**
 
+-[Code](https://github.com/makwal/steuersenkungen/blob/master/5_kanton_ag_steuerertr%C3%A4ge.ipynb)
+
 Die Daten zur Relevanz der Steuern juristischer und natürlicher Personen für die Erträge von Kanton und Gemeinden stammen vom Kanton Aargau
 
-- Juristische Personen (Achtung, die Steuerbeträge sind in 1000 CHF angegeben):
+- [Juristische Personen](https://github.com/makwal/steuersenkungen/blob/master/Daten/kanton_ag_steuern_juristische_personen.xlsx) (Achtung, die Steuerbeträge sind in 1000 CHF angegeben):
 https://www.ag.ch/de/dfr/statistik/statistische_daten/statistische_daten_details/dynamische_detailseite_10_96192.jsp ("Steuerstatistik 2017 – Juristische Personen: Publikation und eDossier", Tabellenblatt T1)
     - Hierbei handelt es sich um die einfache Kantonssteuer (100%). Nicht enthalten sind diverse Zuschläge (unter anderem für den Finanzausgleich) und die Gemeindesteuern)
 
-- Natürliche Personen:
+- [Natürliche Personen](https://github.com/makwal/steuersenkungen/blob/master/Daten/kanton_ag_steuern_nat%C3%BCrliche_personen.xlsx):
 https://www.ag.ch/de/dfr/statistik/statistische_daten/statistische_daten_details/dynamische_detailseite_10_96192.jsp ("Steuerstatistik 2017 – Natürliche Personen: Publikation und eDossier", Tabellenblätter T1 und T26a)
     - Auch hier handelt es sich um die einfache Kantonssteuer (100%)
 
-- Kantonserträge bis 2013 (Achtung, Beträge sind in 1000 CHF angegeben):
+- [Kantonserträge bis 2013](https://github.com/makwal/steuersenkungen/blob/master/Daten/kanton_ag_gemeinden_erfolgsrechnung_bis2013.csv) (Achtung, Beträge sind in 1000 CHF angegeben):
 https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fdata%2FBN18TBN2TGN1TN2MN3
 
-- Kantonserträge ab 2014:https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fdata%2FBN18TBN2TGN1TN2MN5
+- [Kantonserträge ab 2014](https://github.com/makwal/steuersenkungen/blob/master/Daten/kanton_ag_gemeinden_erfolgsrechnung_ab2014.csv):https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fdata%2FBN18TBN2TGN1TN2MN5
 
 **Vorgehen**
 
