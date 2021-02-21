@@ -61,7 +61,7 @@ Zu den Daten ist wichtig zu wissen: "Den Berechnungen der Steuerbelastung liegen
 
 In beiden Dateien wird mit den Belastungswerten in Prozent gerechnet, nicht mit den absoluten Zahlen in Franken.
 
-**Daten ESTV_2 (Code: 2_estv_scraper.ipynb**)
+**Daten ESTV_2**
 
 Die obigen Daten reichen nur bis ins Jahr 2016. Glücklicherweise verfügt die ESTV über einen Steuerrechner, mit welchem die natürlichen Steuerbelastungen für diesselben Haushaltsypen und Einkommen wie bei ESTV_1 für die Jahre 2016 bis 2020 generiert werden können. Die Daten reichen nur bis ins Jahr 2014 zurück, deshalb ist dies nur die sekundäre Datenquelle. https://swisstaxcalculator.estv.admin.ch/#/taxburden/income-wealth-tax
 
@@ -100,8 +100,8 @@ https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filtera
 Die These soll anhand von folgenden **sieben Auswertungen** beleuchtet werden:
 1. Steuerbelastung 2004-2016 ordentlich besteuerte Firmen vs. natürliche Personen (Aargau und CH-Durchschnitt) -> Daten ESTV_1
 2. Steuerbelastung für einzelne Bevölkerungsgruppen (Ledig, verheiratet mit/ohne Kinder, Rentnerpaar) -> Daten ESTV_1
-3. Steuerbelastung natürliche Personen 2016-2020 -> Daten ESTV Scraper
-4. Steuerbelastung juristische Personen 2020 -> Daten ESTV
+3. Steuerbelastung natürliche Personen 2016-2020 -> Daten ESTV_2
+4. Steuerbelastung juristische Personen 2020 -> Daten ESTV_3
 5. Entwicklung, wie viel der Kanton AG durch Gewinn- und Kapitalsteuern sowie Einkommens- und Vermögenssteuern einnimmt -> Daten Kanton AG
 6. Anteil der Firmen- und Personensteuern am Fiskalertrag des Kantons Aargau -> Daten Kanton AG
 7. Entwicklung Steuerertrag pro Kopf resp. Firma -> Daten Kanton AG
