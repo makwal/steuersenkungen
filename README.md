@@ -8,7 +8,10 @@ Die Firmensteuern sind im Kanton Aargau in den vergangenen zwei Jahrzehnten stä
 **Thesen-Check**
 Das Thema ist relevant, weil die grosse Mehrheit der Bürgerinnen und Bürger sowie der juristischen Personen steuerpflichtig ist. Ausserdem ist im Aargau derzeit eine politische Diskussion um die Senkung der Gewinnsteuern im Gang.
 
-Es gibt ähnliche Vergleiche bereits, etwa für den Kanton Bern: https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447
+Journalistisch aufbereitete Steuervergleiche gibt es immer wieder. Meistens fokussieren sie aber entweder auf die juristischen oder die natürlichen Personen. Ein Beispiel, in dem beide Seiten vorkommen, findet sich bei der ["Berner Zeitung"](https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447).
 
 **Knackpunkt**
 In der Fülle von Steuerdaten und -auswertungen ein geeignetes Datenset finden, das den Direktvergleich juristischer und natürlicher Personen ermöglicht.
+
+**Briefing-Personen**
+Jan Schüpbach, Senior Economist bei der Credit Suisse: 
