@@ -69,7 +69,7 @@ In beiden Dateien wird mit den Belastungswerten in Prozent gerechnet, nicht mit 
 - [Code Scraper](https://github.com/makwal/steuersenkungen/blob/master/2_estv_scraper.ipynb)
 - [Code Datenverarbeitung](https://github.com/makwal/steuersenkungen/blob/master/3_auswertung_estv_scraping.ipynb)
 
-Die obigen Daten reichen nur bis ins Jahr 2016. Glücklicherweise verfügt die ESTV über einen Steuerrechner, mit welchem die natürlichen Steuerbelastungen für diesselben Haushaltsypen und Einkommen wie bei ESTV_1 für die Jahre 2016 bis 2020 generiert werden können. Die Daten reichen nur bis ins Jahr 2014 zurück, deshalb ist dies nur die sekundäre Datenquelle. https://swisstaxcalculator.estv.admin.ch/#/taxburden/income-wealth-tax
+Die Daten ESTV_1 reichen nur bis ins Jahr 2016. Glücklicherweise verfügt die ESTV über einen Steuerrechner, mit welchem die natürlichen Steuerbelastungen für diesselben Haushaltsypen und Einkommen wie bei ESTV_1 für die Jahre 2016 bis 2020 generiert werden können. Die Daten reichen nur bis ins Jahr 2014 zurück, deshalb ist dies nur die sekundäre Datenquelle. https://swisstaxcalculator.estv.admin.ch/#/taxburden/income-wealth-tax
 
 Die Seite wird mit Hilfe von Selenium gescraped. Es werden für jede Aargauer Gemeinde die jeweiligen Felder angewählt und das generierte Excel-File heruntergeladen.
 
