@@ -10,10 +10,26 @@ Das Thema ist relevant, weil die grosse Mehrheit der Bürgerinnen und Bürger so
 
 Journalistisch aufbereitete Steuervergleiche gibt es immer wieder. Meistens fokussieren sie aber entweder auf die juristischen oder die natürlichen Personen. Ein Beispiel, in dem beide Seiten vorkommen, findet sich bei der ["Berner Zeitung"](https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447).
 
-<a href="https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447" target="_blank">"Berner Zeitung"</a>
-
 **Knackpunkt**
 In der Fülle von Steuerdaten und -auswertungen ein geeignetes Datenset finden, das den Direktvergleich juristischer und natürlicher Personen ermöglicht.
 
 **Briefing-Personen**
-Jan Schüpbach, Senior Economist bei der Credit Suisse: 
+Jan Schüpbach, Senior Economist bei der Credit Suisse: "Dass die Steuern für juristische Personen in den letzten Jahren stärker gesenkt wurden als für natürliche, deckt sich mit meinen Beobachtungen."
+
+Gespräch mit Roger Ammann, eidg. Steuerverwaltung, Autor des Berichts: "Unterschiede in der Steuerbelastung natürlicher und juristischer Personen 2004 – 2016"
+
+*Kann man die Daten des Berichts für eine Gegenüberstellung der juristischen und natürlichen Steuerbelastungen über die Zeit verwenden?*
+
+Ja, das kann man so machen.
+
+*Müssen die Daten gewichtet werden?*
+
+Man sollte eine Gewichtung machen. Und sonst muss man deklarieren, dass es sich um einen ungewichteten Mittelwert handelt, bei dem jeder Kanton mit dem gleichen Gewicht ins Rennen geht.
+
+*Wie lässt sich der Unterschied der Steuerbelastung zum BAK Taxation Index erklären?*
+
+Dort wird mit einer ganz anderen Methode gerechnet, mit einem investitionstheoretischen Ansatz. Der Index zieht auch die direkte Bundessteuer mit ein. Man kann die Zahlen des BAK Taxation Index nicht mit den Zahlen dieses Berichts vergleichen.
+
+*((Während der Datenanalyse)) Beim Haushaltstyp Rentnerpaar stieg die Steuerbelastung im Gegensatz zu allen anderen Haushaltstypen. Warum?*
+
+Das ist auf eine Methodenänderung zurückzuführen. Am besten nehmen Sie für die Rentner nur den Zeitraum 2008 – 2016.
