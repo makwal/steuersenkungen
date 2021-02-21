@@ -1,6 +1,6 @@
 # Wer im Aargau von Steuersenkungen profitiert
 
-Artikel: [Im Aargau sollen die Firmensteuern sinken – wer in den letzten 20 Jahren besonders stark profitiert hat](https://www.aargauerzeitung.ch/aargau/kanton-aargau/grosse-analyse-im-aargau-sollen-die-firmensteuern-sinken-wer-in-den-letzten-20-jahren-besonders-stark-profitiert-hat-ld.2104931)
+Zum publizierten Artikel: [Im Aargau sollen die Firmensteuern sinken – wer in den letzten 20 Jahren besonders stark profitiert hat](https://www.aargauerzeitung.ch/aargau/kanton-aargau/grosse-analyse-im-aargau-sollen-die-firmensteuern-sinken-wer-in-den-letzten-20-jahren-besonders-stark-profitiert-hat-ld.2104931)
 
 **Hintergrund**
 
