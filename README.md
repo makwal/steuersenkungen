@@ -73,9 +73,7 @@ Die Daten ESTV_1 reichen nur bis ins Jahr 2016. Glücklicherweise verfügt die E
 
 Die Seite wird mit Hilfe von Selenium gescraped. Es werden für jede Aargauer Gemeinde die jeweiligen Felder angewählt und das generierte Excel-File heruntergeladen.
 
-Die Daten von ESTV_1 und ESTV_2 können nicht 1:1 miteinander verglichen werden, weil es zwei grundlegende Unterschiede gibt:
-- ESTV_1 umfasst alle Schweizer Gemeinden, wohingegen ESTV_2 nur die Steuern am Kantonshauptort beinhaltet.
-- ESTV_2 enthält zusätzlich die Belastung durch die direkte Bundessteuer.
+Die Daten von ESTV_1 und ESTV_2 können nicht 1:1 miteinander verglichen werden, weil ESTV_2 zusätzlich die direkte Bundessteuer umfasst und weiterer wahrscheinlicher Unterschiede (wegen der unterschiedlichen Datenerhebungen).
 
 **Daten ESTV_3**
 
