@@ -94,3 +94,14 @@ https://www.ag.ch/de/dfr/statistik/statistische_daten/statistische_daten_details
 https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fdata%2FBN18TBN2TGN1TN2MN3
 
 - Kantonserträge ab 2014:https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fdata%2FBN18TBN2TGN1TN2MN5
+
+**Vorgehen**
+
+Die These soll anhand von folgenden **sieben Auswertungen** beleuchtet werden:
+1. Steuerbelastung 2004-2016 ordentlich besteuerte Firmen vs. natürliche Personen (Aargau und CH-Durchschnitt) -> Daten ESTV_1
+2. Steuerbelastung für einzelne Bevölkerungsgruppen (Ledig, verheiratet mit/ohne Kinder, Rentnerpaar) -> Daten ESTV_1
+3. Steuerbelastung natürliche Personen 2016-2020 -> Daten ESTV Scraper
+4. Steuerbelastung juristische Personen 2020 -> Daten ESTV
+5. Entwicklung, wie viel der Kanton AG durch Gewinn- und Kapitalsteuern sowie Einkommens- und Vermögenssteuern einnimmt -> Daten Kanton AG
+6. Anteil der Firmen- und Personensteuern am Fiskalertrag des Kantons Aargau -> Daten Kanton AG
+7. Entwicklung Steuerertrag pro Kopf resp. Firma -> Daten Kanton AG
