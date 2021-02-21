@@ -105,3 +105,16 @@ Die These soll anhand von folgenden **sieben Auswertungen** beleuchtet werden:
 5. Entwicklung, wie viel der Kanton AG durch Gewinn- und Kapitalsteuern sowie Einkommens- und Vermögenssteuern einnimmt -> Daten Kanton AG
 6. Anteil der Firmen- und Personensteuern am Fiskalertrag des Kantons Aargau -> Daten Kanton AG
 7. Entwicklung Steuerertrag pro Kopf resp. Firma -> Daten Kanton AG
+
+**Arbeitsprotokoll**
+
+- 04.01. – 22.01.2021: Erstes Thema definiert, Idee nach Gesprächen mit zwei Briefing-Personen verworfen (3h)
+- 23./24.01.2021: Suche nach neuem Thema, Einlesen in die Materie (Steuerentwicklung natürliche/juristische Personen) (5h)
+- 25.01. - 08.02.2021: Suche nach geeigneten Daten bei Kanton AG und EFV/ESTV, mehrere Telefonate, erste Grobauswertungen mit Pandas (10h)
+- 11.02.2021: Festlegen auf Datensets, Auswertungen der ESTV-Daten mit Pandas (9h)
+- 12.02.2021: Auswertung der AG-Daten, Ergebnisse evaluieren (5h)
+- 13.02.2021: Ergebnisse visualisieren (1,5h)
+- 14.02.2021: Dokumentation der Datenquellen und des Codes (4h)
+- 16.02.2021: Gespräche mit Experten, Bau des ESTV-Scrapers (7h)
+- 17.02.2021: Gespräche mit Politikern, Artikel schreiben (6h)
+- 21.02.2021: Letzte Dokumentation, Abgabe (2h)
