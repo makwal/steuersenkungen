@@ -85,7 +85,7 @@ https://www.estv.admin.ch/estv/de/home/allgemein/steuerpolitik/fachinformationen
 
 **Daten Kanton AG**
 
--[Code](https://github.com/makwal/steuersenkungen/blob/master/5_kanton_ag_steuerertr%C3%A4ge.ipynb)
+- [Code](https://github.com/makwal/steuersenkungen/blob/master/5_kanton_ag_steuerertr%C3%A4ge.ipynb)
 
 Die Daten zur Relevanz der Steuern juristischer und natürlicher Personen für die Erträge von Kanton und Gemeinden stammen vom Kanton Aargau
 
