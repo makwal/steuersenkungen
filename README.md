@@ -10,10 +10,13 @@ Das Thema ist relevant, weil die grosse Mehrheit der Bürgerinnen und Bürger so
 
 Journalistisch aufbereitete Steuervergleiche gibt es immer wieder. Meistens fokussieren sie aber entweder auf die juristischen oder die natürlichen Personen. Ein Beispiel, in dem beide Seiten vorkommen, findet sich bei der ["Berner Zeitung"](https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447).
 
+Aufwand/Ertrag: Es gibt viele strukturierte Datensätze zu Steuerthemen. Der Aufwand für Datenbeschaffung und -reinigung sollte sich in Grenzen halten. Ertragsseitig ist mit einem Artikel zu einem aktuellen, relevanten und lesernahen Thema zu rechnen. Was den Code angeht, dürfte der Ertrag etwas geringer ausfallen, weil er wohl grösstenteils nicht wiederverwendet werden kann.
+
 **Knackpunkt**
 In der Fülle von Steuerdaten und -auswertungen ein geeignetes Datenset finden, das den Direktvergleich juristischer und natürlicher Personen ermöglicht.
 
 **Briefing-Personen**
+
 Jan Schüpbach, Senior Economist bei der Credit Suisse: "Dass die Steuern für juristische Personen in den letzten Jahren stärker gesenkt wurden als für natürliche, deckt sich mit meinen Beobachtungen."
 
 Gespräch mit Roger Ammann, eidg. Steuerverwaltung, Autor des Berichts: "Unterschiede in der Steuerbelastung natürlicher und juristischer Personen 2004 – 2016"
@@ -33,3 +36,5 @@ Dort wird mit einer ganz anderen Methode gerechnet, mit einem investitionstheore
 *((Während der Datenanalyse)) Beim Haushaltstyp Rentnerpaar stieg die Steuerbelastung im Gegensatz zu allen anderen Haushaltstypen. Warum?*
 
 Das ist auf eine Methodenänderung zurückzuführen. Am besten nehmen Sie für die Rentner nur den Zeitraum 2008 – 2016.
+
+
